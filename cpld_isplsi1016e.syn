@@ -1,0 +1,11 @@
+JDF B
+// Created by Version 2.1 
+PROJECT cpld_isplsi1016e
+DESIGN cpld_isplsi1016e Normal
+DEVKIT ispLSI1016E-80LJ44
+ENTRY Pure VHDL
+MODULE cpld_isplsi1016e.vhd
+MODSTYLE cpld_isplsi1016e Normal
+SYNTHESIS_TOOL Synplify
+SIMULATOR_TOOL ModelSim
+TOPMODULE cpld_isplsi1016e
